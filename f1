@@ -1,12 +1,13 @@
-hi
-helo
-good mrng 
-good night
-good byee take care
-byee byee
-hi
-helo
-byee 
-tatta
-llajjgfsjsh
-ksjjhd
+devops
+clouds
+cat >f1
+cat >>f1
+cat f1
+cp f1 f2
+mv f1 f3
+mv -v d1 d5
+rm f1
+rm -f *
+rm -r d1
+rm -r *
+
